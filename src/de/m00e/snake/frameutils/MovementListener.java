@@ -1,15 +1,16 @@
-package de.mooooooe.snake.frameutils;
+package de.m00e.snake.frameutils;
 
-import de.mooooooe.snake.Main;
-import de.mooooooe.snake.gameutils.enums.Movement;
-import de.mooooooe.snake.gameutils.Snake;
+import de.m00e.snake.Main;
+import de.m00e.snake.gameutils.enums.Movement;
+import de.m00e.snake.gameutils.Snake;
 
 import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
 
 /**
  * Move keys.
  */
-public class KeyListener implements java.awt.event.KeyListener {
+public class MovementListener implements KeyListener {
 
     @Override
     public void keyPressed(KeyEvent e) {

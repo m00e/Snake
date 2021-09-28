@@ -1,4 +1,4 @@
-package de.mooooooe.snake.gameutils.enums;
+package de.m00e.snake.gameutils.enums;
 
 public enum Movement {
     UP,

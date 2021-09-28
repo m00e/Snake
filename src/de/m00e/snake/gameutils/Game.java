@@ -1,6 +1,6 @@
-package de.mooooooe.snake.gameutils;
+package de.m00e.snake.gameutils;
 
-import de.mooooooe.snake.frameutils.Frame;
+import de.m00e.snake.frameutils.Frame;
 
 import java.awt.*;
 

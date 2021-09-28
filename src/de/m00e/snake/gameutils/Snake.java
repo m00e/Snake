@@ -1,7 +1,7 @@
-package de.mooooooe.snake.gameutils;
+package de.m00e.snake.gameutils;
 
-import de.mooooooe.snake.gameutils.enums.Movement;
-import de.mooooooe.snake.gameutils.enums.State;
+import de.m00e.snake.gameutils.enums.Movement;
+import de.m00e.snake.gameutils.enums.State;
 
 import java.awt.*;
 import java.util.ArrayList;

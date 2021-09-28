@@ -1,6 +1,6 @@
-package de.mooooooe.snake;
+package de.m00e.snake;
 
-import de.mooooooe.snake.frameutils.Frame;
+import de.m00e.snake.frameutils.Frame;
 
 import javax.swing.*;
 
@@ -8,7 +8,6 @@ public class Main {
 
     private static Frame frame;
 
-    // TODO: Refactor spaghetti code
     public static void main(String[] args) {
         do { // Play again if YES-Option is selected.
             frame = new Frame();

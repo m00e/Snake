@@ -1,6 +1,6 @@
-package de.mooooooe.snake.frameutils;
+package de.m00e.snake.frameutils;
 
-import de.mooooooe.snake.gameutils.Game;
+import de.m00e.snake.gameutils.Game;
 
 import javax.swing.*;
 import java.awt.*;
@@ -21,7 +21,7 @@ public class Frame extends JFrame {
         game = new Game();
 
         this.add(new GameSimulation());
-        this.addKeyListener(new KeyListener());
+        this.addKeyListener(new MovementListener());
     }
 
     /**

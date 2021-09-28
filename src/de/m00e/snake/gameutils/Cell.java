@@ -1,4 +1,4 @@
-package de.mooooooe.snake.gameutils;
+package de.m00e.snake.gameutils;
 
 import java.awt.*;
 
